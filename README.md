@@ -15,7 +15,7 @@ tfenv list
 tfenv use ${version}
 ```
 
-* tfvars記入
+* tfvars記入
 
 ```sh
 cp terraform.tfvars.template terraform.tfvars
